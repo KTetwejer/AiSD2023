@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\169371\\lab2\\lab2\\lab2.csproj": {}
+    "C:\\Users\\local\\Documents\\GitHub\\AiSD2023\\lab2\\lab2\\lab2.csproj": {}
   },
   "projects": {
-    "D:\\169371\\lab2\\lab2\\lab2.csproj": {
+    "C:\\Users\\local\\Documents\\GitHub\\AiSD2023\\lab2\\lab2\\lab2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\169371\\lab2\\lab2\\lab2.csproj",
+        "projectUniqueName": "C:\\Users\\local\\Documents\\GitHub\\AiSD2023\\lab2\\lab2\\lab2.csproj",
         "projectName": "lab2",
-        "projectPath": "D:\\169371\\lab2\\lab2\\lab2.csproj",
+        "projectPath": "C:\\Users\\local\\Documents\\GitHub\\AiSD2023\\lab2\\lab2\\lab2.csproj",
         "packagesPath": "C:\\Users\\local\\.nuget\\packages\\",
-        "outputPath": "D:\\169371\\lab2\\lab2\\obj\\",
+        "outputPath": "C:\\Users\\local\\Documents\\GitHub\\AiSD2023\\lab2\\lab2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\local\\AppData\\Roaming\\NuGet\\NuGet.Config",
